@@ -1,6 +1,6 @@
 ### About Me
 
-I am Luke, a Cloud Solution Architect at Microsoft. I have a passion for learning and the beauty of tech is there's always more to learn... My experience lies primarily in the world of DevOps and Azure using Terraform to transform complex enterpise architectures from a Visio diagram into a fully-fledge Azure infrastructure solution. I enjoy working with a variety technolohies from YAML for orchestrating and automating multi-satge deployments to PowerShell for simple helper scripts. I relish the challenge of finding the 'right tool for the job' to solve problems,
+I am Luke, a Cloud Solution Architect at Microsoft. I have a passion for learning and the beauty of tech is there's always more to learn... My experience lies primarily in the world of DevOps and Azure using Terraform to transform complex enterpise architectures from a Visio diagram into a fully-fledge Azure infrastructure solution. I enjoy working with a variety of technologies from YAML for orchestrating and automating multi-satge deployments to PowerShell for simple helper scripts. I relish the challenge of finding the 'right tool for the job' to solve problems,
 
 - 🔭 Currently I am diving into the frontend technologies of CSS, JS, and HTML as part of a website project. 
 - 🌱 See below for the certifications I am studying for. 
