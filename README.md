@@ -1,11 +1,11 @@
-### 👋 About Me
+## 👋 About Me
 - 💻 I am a Cloud Solution Architect at Microsoft, dedicated to designiging and implementing enterprise-grade Azure solutions for our customers. 
 - 🚀 Specialising specifically in Platform Automation and DevOps, utilising tools/methodologies such as, IaC, AI, CI/CD to develop scalable Azure Landing Zones and accelerate adoption.  
 - 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/luke-taylor-io/).
 
 ---
 
-### 🌳 Projects 
+## 🌳 Projects 
 🌳 Project | 🧩 Role | ⭐ Stars | 📚 Forks | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="20" height="20"/>&nbsp;Downloads
 -------- | ----------- | -------- | --------- | --------- 
 [Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) | 👑 Owner | ![](https://img.shields.io/github/stars/Azure/alz-terraform-accelerator?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/Azure/alz-terraform-accelerator?style=flat-square&labelColor=343b41) | n/a
@@ -18,7 +18,7 @@
 
 ---
 
-### 🔬 Labs 
+## 🔬 Labs 
 🔬 Lab | ⭐ Stars | 📚 Forks 
 ----------- | -------- | --------- 
  [Terraform Deployment of High Availability NVAs with Azure Route Server](https://github.com/luke-taylor/terraform-ha-nva-azure-route-server) | ![](https://img.shields.io/github/stars/luke-taylor/terraform-ha-nva-azure-route-server?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/luke-taylor/terraform-ha-nva-azure-route-server?style=flat-square&labelColor=343b41) 
@@ -26,14 +26,14 @@
 
 ---
 
-### 🧮 GitHub Stats
+## 🧮 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luke-taylor&theme=cobalt)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-taylor&layout=compact&theme=tokyonight)
 <!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 
 ---
 
-### 📜 Credentials and Certifications 
+## 📜 Credentials and Certifications 
 - 📃 [Credly Profile](https://www.credly.com/users/luke-taylor.14004284/badges)
 
 - 🪟 [Microsoft Learn Profile](https://learn.microsoft.com/en-gb/users/luketaylor-3014/)
