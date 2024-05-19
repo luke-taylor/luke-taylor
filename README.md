@@ -1,6 +1,6 @@
 ## 👋 About Me
-- 💻 I am a Cloud Solution Architect at Microsoft, dedicated to designiging and implementing enterprise-grade Azure solutions for our customers. 
-- 🚀 Specialising specifically in Platform Automation and DevOps, utilising tools/methodologies such as, IaC, AI, CI/CD to develop scalable Azure Landing Zones and accelerate adoption.  
+- 💻 I am a Cloud Solution Architect at Microsoft, dedicated to designing and implementing enterprise-grade Azure solutions for our customers. 
+- 🚀 Specialising specifically in Platform Automation and DevOps, utilising tools/methodologies such as, IaC, AI, CI/CD to develop scalable Azure Landing Zones and accelerate cloud migrations.  
 - 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/luke-taylor-io/).
 
 ---
